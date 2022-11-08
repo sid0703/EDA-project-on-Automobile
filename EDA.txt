@@ -1,0 +1,15 @@
+There are 14 columns in the dataset.
+The mean in the data is 0.83 for symboling, 65.9 for width,53.7 for heigth,126.9 for engine-size, 25.6 for city=mpg,30.7 for highway-mpg,13227.4 for price.
+
+In the histogram chart of engine-size and price there is most of the engine-size is distributed around 100 to 150 and in the price it is around 120000. The engine size and the price both are positively skewed.
+
+In the countplot of bodystyle with reference to fueltype the sales of sedan cars are the most as it is in the count of higher than 80 as others for both gas and diesel as fueltype followed by the hatchback cars according to fuel as gas lower than 70 and the wagon cars according to diesel less than 30.
+
+Now according to the subplots anf the frequency diagram the engine type of ohc of are to be more as others.The wheels of fwd are most in sales. The fuel type of gas is in the increased numbers among the others and the higher number of sedan cars are in the sales as compared to others.
+
+The pie chart of drive wheels the fwd has the 58.54% of the sales, the rwd has 37.07% and the least saled which is 4wd has 4.39%.
+which means that the highest selling wheels are the fwd wheels followed with the rwd.
+
+
+
+
